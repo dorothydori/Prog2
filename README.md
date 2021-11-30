@@ -9,7 +9,7 @@ A játék főszereplője az egykori cicám, Félix, lesz, aki szivárványt húz
 *Projekt megvalósítási folyamata* 
 --------------------------------- 
 
-* 1.hét: Megrajzoltam a gyümölcsöket és a macskát és a hátteret. 
+* 1.hét: Megrajzoltam a gyümölcsöket, a macskát és a hátteret. 
 * 2.hét: A Unity és a C# tanulmányozásával telt, bár ez a művelet folytatódott a következő hetekben is. 
 * 3.hét: Létrehoztam a *CatMovement* kódot, amiben a macska mozgását állítottam be. A "fel" vagy "le" billentyű nyomására tud mozogni a macska. Ezután a *LoopingBackground* és a *CameraMovement* kódot írtam meg, ami a háttér és a kamera mozgását teszi lehetővé. 
 * 4.hét: A *SpawnFood* kód segítségével kipróbáltam egy gyümölcsöt generálni, véletlenszerű helyekre. 
