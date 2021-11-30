@@ -23,7 +23,7 @@ A játék főszereplője az egykori cicám, Félix, lesz, aki szivárványt húz
 *A játékról* 
 --------------------- 
 
-A játék neve ### Fill the Rainbow ### . Egy macskából, öt gyümölcsből (cseresznye, citrom, szőlő, áfonya, szilva), a szivárványból (piros, sárga, zöld, kék, lila) és 3 gyorskajából (hamburger, pizza, hot dog) áll. Ezeket az elemeket a [Gimp](https://www.gimp.org/) nevű programmal rajzoltam meg. 
+A játék neve ### Fill the Rainbow. Egy macskából, öt gyümölcsből (cseresznye, citrom, szőlő, áfonya, szilva), a szivárványból (piros, sárga, zöld, kék, lila) és 3 gyorskajából (hamburger, pizza, hot dog) áll. Ezeket az elemeket a [Gimp](https://www.gimp.org/) nevű programmal rajzoltam meg. 
 
 
 
