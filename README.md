@@ -16,7 +16,7 @@ A játék főszereplője az egykori cicám, Félix, lesz, aki szivárványt húz
 * 5.hét-6.hét: Az összes gyümölcs és gyorskaja véletlenszerű generálását oldottam meg, valamint azt, hogy amikor a macska "megeszi" őket, akkor tűnjenek el. 
 * 7.hét-8.hét: Megrajzoltam a szivárványcsíkokat és beállítottam, hogy melyik gyümölcs megevésénél milyen színű szivárványcsík töltődik. Ha pedig gyorskaját eszik a macska, akkor mindegyik szivárványcsík veszít a töltődéséből. 
 * 9.hét: Elkészítettem a *Menu*, *GameOver*, *YouWin* panelt, a hozzájuk tartozó kódokkal együtt. Akkor lehet nyerni, ha teljesen feltöltődik mind az öt szivárványcsík. Amikor letöltődött mindegyik szivárványcsík még nem veszítünk, csak ha újból megeszik a macska egy gyorskaját. 
-* 10.hét: Beállítottam a pontszámot és a zenét, azután pedig véglegesítettem a játékot. 
+* 10.hét: Beállítottam a pontszámot, a hangokat és a háttérzenét, azután pedig véglegesítettem a játékot. 
 
   
 
